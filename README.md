@@ -22,9 +22,9 @@ O objetivo deste projeto é representar de forma clara e visual utilizando Power
 
 O repositório contém os arquivos principais utilizados no projeto:
 
-- Planilhas usadas para a coleta de dados.
+- Planilhas XLS usadas para a coleta de dados.
 
-- Ícones Usados na Apresentação do BI
+- Ícones PNG Usados na Apresentação do BI
 
 - Arquivo PBIX do Power BI com os dashboards e relatórios.
 
