@@ -1,6 +1,6 @@
 # 1️⃣Questionário sobre a Qualidade da Merenda no Estado do Paraná
 
-Bem-vindo ao repositório dedicado ao projeto Questionário sobre a Qualidade da Merenda no Estado do Paraná! 
+Bem-vindo ao diretório dedicado ao projeto Questionário sobre a Qualidade da Merenda no Estado do Paraná! 
 
 🎯 Objetivo 
 
