@@ -20,13 +20,13 @@ O objetivo deste projeto é representar de forma clara e visual utilizando Power
 
 📂 Estrutura do Repositório
 
-O repositório está dividido em três diretórios principais:
+O repositório contém os arquivos principais utilizados no projeto:
 
-- Planilhas Onde Foi Extraido e Tratado os Dados: Contém as planilhas usadas para a coleta de dados.
+- Planilhas usadas para a coleta de dados.
 
-- Ícones Usados na Apresentação do BI: Contém os ícones utilizados no Power BI.
+- Ícones Usados na Apresentação do BI
 
-- Arquivos-PBIX: Contém os arquivos .pbix do Power BI com os dashboards e relatórios.
+- Arquivo PBIX do Power BI com os dashboards e relatórios.
 
 🤝 Como Contribuir 
 
