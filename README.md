@@ -1,4 +1,4 @@
-# 📊 Projetos de BI - Estágio na FUNDEPAR-PR
+# 📊 Projetos de BI - Estágio no Instituto Paranaense de Desenvolvimento Educacional/ FUNDEPAR-PR
 
 Bem-vindo ao repositório dos meus projetos de Business Intelligence desenvolvidos durante meu estágio na FUNDEPAR-PR!
 
