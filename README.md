@@ -1,4 +1,5 @@
-📊 Projetos de BI - Estágio na FUNDEPAR-PR
+# 📊 Projetos de BI - Estágio na FUNDEPAR-PR
+
 Bem-vindo ao repositório dos meus projetos de Business Intelligence desenvolvidos durante meu estágio na FUNDEPAR-PR!
 
 Este espaço é dedicado aos projetos que realizei no âmbito do meu estágio, onde apliquei técnicas e ferramentas de BI para resolver problemas reais e extrair insights valiosos para a organização.
