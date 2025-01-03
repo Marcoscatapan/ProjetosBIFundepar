@@ -1,24 +1,26 @@
-# 📊 Meus Projetos pessoais com Power BI
+📊 Projetos de BI - Estágio na FUNDEPAR-PR
+Bem-vindo ao repositório dos meus projetos de Business Intelligence desenvolvidos durante meu estágio na FUNDEPAR-PR!
 
-Bem-vindo ao repositório dos meus projetos pessoais de PowerBI!
+Este espaço é dedicado aos projetos que realizei no âmbito do meu estágio, onde apliquei técnicas e ferramentas de BI para resolver problemas reais e extrair insights valiosos para a organização.
 
-Este repositório é dedicado aos meus projetos pessoais realizados com PowerBI, onde você encontrará uma variedade de desafios e projetos que desenvolvi para prática e aprendizado.
-
-📂 Navegação no Repositório
-
+📂 Estrutura do Repositório
 Cada projeto ou desafio está organizado em seu próprio diretório.
 
-Dentro de cada diretório, você encontrará os arquivos relacionados ao projeto, como arquivos .pbix, documentos de especificação e outras informações relevantes.
+Dentro de cada diretório, você encontrará:
 
-Sinta-se à vontade para explorar, estudar e colaborar com outros interessados em PowerBI. Este repositório pode ser uma valiosa fonte de revisão e prática.
+Arquivos .pbix: Dashboards e relatórios criados no Power BI.
+Documentação: Especificações do projeto e descrição das análises.
+Outros recursos: Dados, scripts e materiais relevantes.
+Explore cada projeto para entender as soluções aplicadas e as metodologias empregadas.
 
-🛠️ Projetos Disponíveis
+🛠️ Projetos Desenvolvidos
+Projeto 1: Análise de questionários sobre a qualidade da merenda no estado do Paraná.
+Projeto 2: (Adicionar descrição de outros projetos se houver)
 
-Projeto 1: Questionário sobre a qualidade da merenda no estado do Paraná
+Esses projetos exemplificam minha prática em BI, incluindo análise de dados, visualização e storytelling, sempre focados em atender às necessidades da FUNDEPAR-PR.
 
-🤝 Contribuindo
-
-Se você deseja contribuir com soluções para os projetos ou desafios, sinta-se à vontade para enviar um pull request. Todos os tipos de contribuições são bem-vindas!
+🤝 Contribuições
+Contribuições são sempre bem-vindas! Caso tenha sugestões ou queira colaborar com melhorias, fique à vontade para abrir um pull request.
 
 📧 Contato
 
