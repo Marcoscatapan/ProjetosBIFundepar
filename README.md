@@ -20,8 +20,7 @@ Explore cada projeto para entender as soluções aplicadas e as metodologias emp
 
 🛠️ Projetos Desenvolvidos
 
-Projeto 1: Análise de questionários sobre a qualidade da merenda no estado do Paraná.
-
+Projeto 1: Avaliação das escolas que servem cardápios padronizados.
 Projeto 2: (Adicionar descrição de outros projetos se houver)
 
 Esses projetos exemplificam minha prática em BI, incluindo análise de dados, visualização e storytelling, sempre focados em atender às necessidades da FUNDEPAR-PR.
